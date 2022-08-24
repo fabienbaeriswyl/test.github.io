@@ -1,11 +1,9 @@
 # main links
 main:
-  - title: "About"
-    url: /about
-  - title: "Posts"
-    url: /year-archive/
-  #- title: "Sample Posts"
-  #  url: https://coucou.fr
+  - title: "A propos/About"
+    url: /about/
+  - title: "Communications"
+    url: /conf/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
