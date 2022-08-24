@@ -1,9 +1,13 @@
 # main links
 main:
-  - title: "A propos/About"
-    url: /about/
+  - title: "Intérêts de recherche"
   - title: "Communications"
     url: /conf/
+  - title: "Publications"
+    url: /publi/
+  - title: ""
+  - title: "A propos/About"
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
