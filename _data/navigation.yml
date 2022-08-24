@@ -1,11 +1,9 @@
 # main links
 main:
-  - title: "Intérêts de recherche"
-  - title: "Communications"
-    url: /conf/
   - title: "Publications"
     url: /publi/
-  - title: ""
+  - title: "Recherche"
+    url: /conf/
   - title: "A propos/About"
     url: /about/
   # - title: "Sample Collections"
