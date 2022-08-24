@@ -4,6 +4,8 @@ title: "Colleagues, friends and links"
 permalink: /colleagues/
 ---
 
+[Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/test.github.io/collegues)
+
 ### Colleagues and friends 
 
 Because research in applied mathematics cannot be thought of without interactions, discussions and great moments shared with colleagues and friends, I list below some interesting profiles I encountered and who contributed to either (re)define my interests, understand and put into perspectives some concepts or simply helped me to evolve along the way: 
