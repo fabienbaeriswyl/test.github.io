@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Conférences et colloques" 
+title: "Conferences and workshops" 
 permalink: /conf-en/
 ---
 

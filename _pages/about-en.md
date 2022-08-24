@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "About me" 
-permalink: /about/
+permalink: /about-en/
 ---
 
 [Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/test.github.io/about)

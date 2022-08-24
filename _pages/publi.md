@@ -1,6 +1,6 @@
 --- 
 layout: home
-title: "Publications and research interets"
+title: "Publications et intérêts de recherche"
 permalink: /publi/
 ---
 
