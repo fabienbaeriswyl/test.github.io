@@ -2,6 +2,7 @@
 layout: home
 title: "Publications et intérêts de recherche"
 permalink: /publi/
+author_profile: true
 ---
 
 [Click here for the page in English](https://fabienbaeriswyl.fr/test.github.io/publi-en)
